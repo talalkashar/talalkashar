@@ -1,10 +1,10 @@
 ### Artery Systems
 
-Premium websites and digital systems for businesses that take their brand seriously. Based in Northern Virginia, working anywhere.
+The digital infrastructure behind premium businesses: brand, platform and the systems that run them. Based in Northern Virginia, working anywhere.
 
 **[arterysystems.com](https://arterysystems.com)**
 
-Hi, I'm Talal Kashar, founder of Artery Systems and an IT student at George Mason University. I design, build and deploy production sites and automations end to end.
+Hi, I'm Talal Kashar, founder of Artery Systems and an IT student at George Mason University. I design, build and run production platforms end to end.
 
 ### Featured work
 
