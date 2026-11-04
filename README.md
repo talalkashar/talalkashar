@@ -1,21 +1,23 @@
-### Hi, I'm Talal Kashar
+### Artery Systems
 
-Full-stack developer shipping **real production websites**, not tutorial demos. I design, build, and deploy client and brand sites from scratch.
+Websites, an AI receptionist, Google presence, ads and automation for small businesses in Northern Virginia, DC and anywhere.
 
-**Currently:** IT student at George Mason University. Founder of [FORGE](https://forgegym.us) gym gear.
+**[arterysystems.com](https://arterysystems.com)**
+
+Hi, I'm Talal Kashar, founder of Artery Systems and an IT student at George Mason University. I design, build and deploy production sites and automations end to end.
 
 ### Featured work
 
 | Project | Live | What I built |
 |--------|------|----------------|
-| **[FORGE](https://github.com/talalkashar/forge)** | [forgegym.us](https://forgegym.us) | Owned brand e-commerce: Next.js storefront, Stripe Checkout, Supabase catalog and admin inventory, TikTok Shop marketplace readiness |
-| **[Lily's Sweet Treats](https://github.com/talalkashar/lilys-sweet-treats)** | [lilyssweettreatsva.com](https://www.lilyssweettreatsva.com) | Client bakery site: menu and pre-order flow, Stripe payments and tax, Resend email, live on Vercel |
+| **[Artery Systems](https://arterysystems.com)** | [arterysystems.com](https://arterysystems.com) | My agency site: Next.js, services for small businesses (websites, AI receptionist, automation) and a free AI review funnel |
+| **[FORGE](https://github.com/talalkashar/forge)** | [forgegym.us](https://forgegym.us) | Owned gym-gear brand: Next.js storefront, Stripe Checkout, Supabase catalog and admin inventory, TikTok Shop readiness |
 
 ### Stack I use in production
 
 `Next.js` · `TypeScript` · `React` · `Tailwind CSS` · `Stripe` · `Supabase` · `Vercel` · `Git` · `Node.js`
 
-### What employers and clients get
+### What clients and employers get
 
 - Sole developer ownership from UI through checkout to deploy
 - Clean TypeScript codebases with clear docs for handoff
@@ -24,8 +26,7 @@ Full-stack developer shipping **real production websites**, not tutorial demos. 
 
 ### Links
 
-- Profile: [github.com/talalkashar](https://github.com/talalkashar)
+- Artery Systems: [arterysystems.com](https://arterysystems.com)
 - FORGE: [forgegym.us](https://forgegym.us)
-- Client site: [lilyssweettreatsva.com](https://www.lilyssweettreatsva.com)
 
-*Open to internships, freelance web work, and full-time opportunities.*
+*Open to freelance and agency work, internships, and full-time opportunities.*
