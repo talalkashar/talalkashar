@@ -1,6 +1,6 @@
 ### Artery Systems
 
-Websites, an AI receptionist, Google presence, ads and automation for small businesses in Northern Virginia, DC and anywhere.
+Premium websites and digital systems for businesses that take their brand seriously. Based in Northern Virginia, working anywhere.
 
 **[arterysystems.com](https://arterysystems.com)**
 
@@ -10,7 +10,7 @@ Hi, I'm Talal Kashar, founder of Artery Systems and an IT student at George Maso
 
 | Project | Live | What I built |
 |--------|------|----------------|
-| **[Artery Systems](https://arterysystems.com)** | [arterysystems.com](https://arterysystems.com) | My agency site: Next.js, services for small businesses (websites, AI receptionist, automation) and a free AI review funnel |
+| **[Artery Systems](https://arterysystems.com)** | [arterysystems.com](https://arterysystems.com) | My studio's site: a custom Next.js build with a booking flow and a clear, high-end presentation of the work |
 | **[FORGE](https://github.com/talalkashar/forge)** | [forgegym.us](https://forgegym.us) | Owned gym-gear brand: Next.js storefront, Stripe Checkout, Supabase catalog and admin inventory, TikTok Shop readiness |
 
 ### Stack I use in production
