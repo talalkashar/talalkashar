@@ -16,4 +16,4 @@ I'm Talal Kashar, founder of Artery Systems. George Mason University, class of M
 
 [arterysystems.com](https://arterysystems.com)
 
-*Also open to internships and full-time opportunities.*
+*Open to internships and full-time opportunities.*
