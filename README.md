@@ -6,7 +6,7 @@ We help enterprise businesses get found, get booked and save time.
 
 **[arterysystems.com](https://arterysystems.com)**
 
-Founded by Talal Kashar, a SOC analyst studying Information Technology and Cybersecurity at George Mason University, class of Fall 2027.
+Founded by Talal Kashar, a cybersecurity professional pursuing a Bachelor's degree at George Mason University.
 
 ### What we get done
 
