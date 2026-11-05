@@ -4,7 +4,7 @@ The digital infrastructure behind premium businesses: brand, platform and the sy
 
 **[arterysystems.com](https://arterysystems.com)**
 
-Hi, I'm Talal Kashar, founder of Artery Systems and an IT student at George Mason University. I design, build and run production platforms end to end.
+I'm Talal Kashar, founder of Artery Systems and an IT student at George Mason University. I design, build and run production platforms end to end.
 
 ### What we build
 
