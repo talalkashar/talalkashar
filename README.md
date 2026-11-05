@@ -1,6 +1,6 @@
 ### Artery Systems
 
-The digital infrastructure behind premium businesses: brand, platform and the systems that run them. Based in Northern Virginia, working anywhere.
+The digital infrastructure behind premium businesses: brand, platform and the systems that run them. Serving Washington, DC and clients anywhere.
 
 **[arterysystems.com](https://arterysystems.com)**
 
