@@ -4,16 +4,16 @@ The digital infrastructure behind premium businesses: brand, platform and the sy
 
 **[arterysystems.com](https://arterysystems.com)**
 
-I'm Talal Kashar, founder of Artery Systems. George Mason University, class of May 2027. I design, build and run production platforms end to end.
+Founded by Talal Kashar. George Mason University, class of May 2027.
 
-### What we build
+### What we do
 
-- Custom sites and platforms on real domains, built to a premium standard
-- Payment flows and the admin tools behind them
-- Booking, follow-up and the automation that keeps a business running
+**Service businesses.** Barbers, salons and tattoo studios get their own booking system: deposits, consult forms and Google presence, so clients book direct and keep the full price. We track bookings and no-shows from day one and report the change.
+
+**Online stores.** We install tracking, find where shoppers drop off, fix it in the store you already have, and measure the result against your own baseline. Revenue per visit is the number we report.
 
 ### Work with us
 
-[arterysystems.com](https://arterysystems.com)
+[Book a 15-minute call](https://cal.com/artery-systems/intro-call)
 
 *Open to internships and full-time opportunities.*
